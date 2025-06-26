@@ -4,4 +4,7 @@ sqlalchemy
 pydantic
 python-multipart
 pycryptodome
+fastapi
+uvicorn
+sqlalchemy
 
